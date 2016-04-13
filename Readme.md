@@ -1,6 +1,6 @@
 # Личный проект «Нёрдс»
 
-* Студент: [Анися Бедретдинова](https://up.htmlacademy.ru/htmlcss/13/user/121911).
+* Студент: [Анися Бедретдинова;)](https://up.htmlacademy.ru/htmlcss/13/user/121911).
 * Наставник: [Семушкин Максим](https://htmlacademy.ru/profile/id48647).
 
 ---
